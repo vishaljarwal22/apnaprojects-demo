@@ -1,4 +1,4 @@
 # apnaprojects-demo
-this is my first project
+This is my first project
 <br>
-author- vishal jarwal
+author- vishal jarwal(muhana)
